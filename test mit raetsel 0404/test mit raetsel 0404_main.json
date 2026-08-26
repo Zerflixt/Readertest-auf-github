@@ -1,0 +1,42 @@
+{
+  "titel": "test mit raetsel 0404",
+  "erstellt": "2026-08-26T11:54:09.258Z",
+  "quelldatei": "Ausgabe 23_4-Seiten-verlustfrei.pdf",
+  "seitenzahl": 4,
+  "raetsel": {
+    "aktiv": true,
+    "seite": 3
+  },
+  "renderScale": 2.6,
+  "webpQualitaet": 0.9,
+  "seiten": [
+    {
+      "nummer": 1,
+      "datei": "test mit raetsel 0404/seiten/seite-01.webp",
+      "typ": "webp",
+      "quelle": "Ausgabe 23_4-Seiten-verlustfrei.pdf",
+      "quellseite": 1
+    },
+    {
+      "nummer": 2,
+      "datei": "test mit raetsel 0404/seiten/seite-02.webp",
+      "typ": "webp",
+      "quelle": "Ausgabe 23_4-Seiten-verlustfrei.pdf",
+      "quellseite": 2
+    },
+    {
+      "nummer": 3,
+      "datei": "test mit raetsel 0404/seiten/seite-03.webp",
+      "typ": "webp",
+      "quelle": "Ausgabe 23_4-Seiten-verlustfrei.pdf",
+      "quellseite": 3
+    },
+    {
+      "nummer": 4,
+      "datei": "test mit raetsel 0404/seiten/seite-04.webp",
+      "typ": "webp",
+      "quelle": "Ausgabe 23_4-Seiten-verlustfrei.pdf",
+      "quellseite": 4
+    }
+  ]
+}
